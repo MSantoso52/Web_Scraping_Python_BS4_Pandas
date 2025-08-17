@@ -53,4 +53,3 @@ Web scraping process following below process:
 11. Convert into csv file
     ```python3
     df.to_csv('World_GDP.csv', index=False)
-   ```
