@@ -6,7 +6,7 @@ Project repo for data extraction from web using Beautifulsoup4 python library th
 To follow along this learning need to available the below requirements:
 - python3 installed
   ```bash
-  suda apt install python3   
+  sudo apt install python3   
   ```
 - pandas library
   ```bash
