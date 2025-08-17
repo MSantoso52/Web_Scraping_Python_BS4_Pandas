@@ -1,7 +1,21 @@
 # Web_Scraping_Python_BS4_Pandas
 Web Scraping Using Python with Beautifulsoup4 &amp; Pandas
 # *Overview*
+Project repo for data extraction from web using Beautifulsoup4 python library through web scrapping. This repo about step-by-step to conduct web scrapping until convert into CSV file. 
 # *Prererquisites*
+To follow along this learning need to available the below requirements:
+- python3 installed
+  ```bash
+  suda apt install python3   
+  ```
+- pandas library
+  ```bash
+  pip install pandas   
+  ```
+- Beautifulsoup
+  ```bash
+  pip install beautifulsoup4   
+  ```
 # *Project Flow*
 Web scraping process following below process:
 1. Import necessary python library
@@ -37,6 +51,6 @@ Web scraping process following below process:
    df = pd.DataFrame(gdp, columns=description)
    ```
 11. Convert into csv file
-  ```python3
+   ```python3
    df.to_csv('World_GDP.csv', index=False)
-  ```
+   ```
