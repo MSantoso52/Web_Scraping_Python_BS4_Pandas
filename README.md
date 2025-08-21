@@ -3,7 +3,7 @@ Web Scraping Using Python with Beautifulsoup4 &amp; Pandas
 # *Overview*
 Project repo for data extraction from web using Beautifulsoup4 python library through web scrapping. This repo about step-by-step to conduct web scrapping until convert into CSV file. 
 # *Prererquisites*
-To follow along this learning need to available the below requirements:
+To follow along this project need to available the below requirements:
 - python3 installed
   ```bash
   sudo apt install python3   
